@@ -1,0 +1,3 @@
+# Força o Railway a usar um provedor Node.js da versão 22
+[providers]
+node = "22"
